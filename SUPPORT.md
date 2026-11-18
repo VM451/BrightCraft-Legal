@@ -10,11 +10,9 @@
 
 If you need help with your subscription, local AI models, iCloud Sync, or bug reports:
 
-1. **Email Support:** Send an email to **[nitiphoom.dev@gmail.com](mailto:nitiphoom.dev@gmail.com)**.
-2. **Fast Bug Report from Inside Brightcraft:**
-   - Open Brightcraft → **Settings → Support & Legal → Report a Bug**.
-   - Brightcraft copies a short diagnostic summary (iOS version, app version/build, and subscription tier — **never** your private ideas or workspace content).
-   - Tap **Contact Support** right above it to paste the summary into your email.
+1. **Contact Support from Brightcraft:** Open **Settings → Support & Legal → Contact Support** to launch Apple Mail pre-addressed to **`Nitiphoom.dev@gmail.com`** with a topic & diagnostics template.
+2. **Report a Bug from Brightcraft:** Open **Settings → Support & Legal → Report a Bug** to launch Apple Mail pre-addressed with reproduction steps and non-sensitive diagnostics (iOS version, app version/build, active AI model, subscription tier).
+3. **Direct Email:** Send an email directly to **[Nitiphoom.dev@gmail.com](mailto:Nitiphoom.dev@gmail.com)** if Apple Mail is not configured on your device.
 
 ---
 
